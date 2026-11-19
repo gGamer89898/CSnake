@@ -10,8 +10,8 @@ namespace essencials {
     int x = 15;
     int y = 15;
     
-    int numOfFoods = 64;
-    bool debug = true;
+    int numOfFoods = 5;
+    bool debug = false;
 
     bool running = true;
     int lastRand = 0;
